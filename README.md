@@ -13,3 +13,5 @@ Zahn fühlen können, stellen wir Ihnen 19 Sensoren vor und zeigen, wie Sie dies
 einfach in eigene Arduino-Projekte integrieren.
 
 von Florian Schäffer
+
+Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 1/19
